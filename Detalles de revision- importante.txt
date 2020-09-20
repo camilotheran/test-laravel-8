@@ -1,0 +1,15 @@
+Buenos dias, tardes o noche, dependiendo de la hora en la que revise este aplicativo.
+
+Un cordial saludo, debo disculparme, no fui capaz de terminar la totalidad del aplicativo pedido.
+
+tanto el usuario y su respectiva verificacion como el crud de productos con toda su funcionalidad
+y sus registros en la base de datos,fueron terminados pero no fui capaz de hacer funcionar las rutas
+con la nueva version de laravel(8),a la parte de login se puede acceder con las rutas:
+-camilo/public/login
+-camilo/public/registro
+al crud se puede acceder desde la ruta:
+-camilo/public/productos
+
+atravez de esas url's se puede ver la funcionalidad.
+
+muchas gracias. 
